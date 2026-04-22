@@ -2,13 +2,13 @@
 
 A professional, end-to-end Machine Learning web application designed to assist in the early detection of Breast Cancer using biopsy measurements. This system uses clinical-grade diagnostics powered by a Logistic Regression model trained on the Breast Cancer Wisconsin (Diagnostic) Dataset.
 
-## 🚀 Features
+## Features
 - **High Accuracy**: Real-time diagnostic prediction with **97.37% accuracy**.
 - **User-Friendly UI**: Premium medical-themed dashboard built with Streamlit.
 - **Explainable AI**: Integrated tooltips explaining the medical significance of each biopsy parameter.
 - **Robust Pipeline**: Automated feature selection (RFECV) and data scaling for maximum reliability.
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 ├── data/                    # Dataset source (csv)
 ├── models/                  # Trained models, Scalers, and Feature lists (pkl)
@@ -18,7 +18,7 @@ A professional, end-to-end Machine Learning web application designed to assist i
 └── .gitignore               # Files ignored by git
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -49,8 +49,8 @@ The system analyzes 12 critical biopsy parameters (out of the original 30) that 
 - **Concavity**: Severity of depressions in the contour.
 - ... and more.
 
-## 🛡️ Disclaimer
+##  Disclaimer
 *This tool is for informational and educational purposes only. It is not intended to replace professional medical diagnosis or treatment. Always consult with a qualified healthcare provider for medical concerns.*
 
 ---
-Created with ❤️ by [Your Name]
+Created with ❤️ by Shish Kumar Kushwah
