@@ -1,5 +1,7 @@
 # 🎗️ AI Breast Cancer Diagnostic System
 
+[![Live Demo](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-breast-cancer-diagnostic-system-mbwixktfecj3c3r65fmgt3.streamlit.app/)
+
 A professional, end-to-end Machine Learning web application designed to assist in the early detection of Breast Cancer using biopsy measurements. This system uses clinical-grade diagnostics powered by a Logistic Regression model trained on the Breast Cancer Wisconsin (Diagnostic) Dataset.
 
 ## Features
