@@ -1,0 +1,18 @@
+# Python
+__pycache__/              # Python compiled code (not needed for GitHub)
+*.py[cod]                 # Python compiled bytecode files
+*$py.class                # Python compiled class files
+.venv                     # Your local virtual environment (too large to upload)
+venv/                     # Standard folder for virtual environments
+ENV/                      # Alternative name for virtual environments
+
+# Jupyter Notebook
+.ipynb_checkpoints        # Auto-saved history of your Notebook notebooks
+*/.ipynb_checkpoints/*    # Deep level notebook checkpoints
+
+# Streamlit
+.streamlit/               # Local Streamlit config and theme settings
+
+# OS
+.DS_Store                 # Mac OS folder metadata (junk file)
+Thumbs.db                 # Windows thumbnail database (junk file)
